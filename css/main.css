@@ -108,6 +108,16 @@ button {
   margin-left: 185px;
 }
 
+.header-warning {
+  display: block;
+  color: #b94a48;
+  margin-bottom: 20px;
+  margin-left: 0;
+  text-align: center;
+  padding: 10px;
+  background-color: #fcc;
+}
+
 label {
   text-align: right;
   width: 160px;
