@@ -1,5 +1,2 @@
-# Allow crawling of all content
 User-agent: *
-Disallow: /js/
-Disallow: /images/
-Disallow: /css/
+Disallow:
